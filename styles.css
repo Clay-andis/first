@@ -1,0 +1,35 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background:  url('img/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color:  white;
+}
+
+.logo {
+    height: 40px;
+    margin-top: 20px;
+
+}
+
+.text-description {
+     letter-spacing: 2px;
+     font-family: sans-serif;
+}
+
+.form-control{
+    background: transparent !important;
+    color: white;
+}
+
+a .fab{
+    color: #ffc;
+    font-size: 30px;
+    margin: 10px;
+
+}
